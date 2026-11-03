@@ -52,12 +52,6 @@ A developer with a strong inclination towards **backend development and Artifici
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuja112&show_icons=true&theme=default&hide_border=true&title_color=527FA8&icon_color=527FA8" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuja112&layout=compact&theme=default&hide_border=true&title_color=527FA8" />
-
-<br/><br/>
-
 <img width="65%" src="https://streak-stats.demolab.com?user=anuja112&theme=default&hide_border=true&ring=527FA8&fire=527FA8&currStreakLabel=527FA8" />
 
 </div>
