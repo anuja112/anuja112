@@ -52,7 +52,7 @@ A developer with a strong inclination towards **backend development and Artifici
 
 <div align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=anuja112&theme=default&hide_border=true&ring=527FA8&fire=527FA8&currStreakLabel=527FA8" />
+<img width="65%" src="./profile/streak.svg" />
 
 </div>
 
